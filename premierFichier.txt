@@ -1,1 +1,3 @@
 Première ligne du premier fichier
+
+et pourquoi pas une deuxième ligne de texte
